@@ -1,16 +1,16 @@
 # -*- encoding: utf-8 -*-
 require 'working/gemspec'
-require 'word/version'
+require 'bbl/version'
 
 keys_bound = File.readlines('README.rdoc').grep(/^\[\+\S+\+\]/).join "\n"
 
 Working.gemspec(
-  name: 'word',
+  name: 'bbl',
   summary: Working.third_line_of_readme,
-  description: "== Word\n" + Working.third_line_of_readme,
-  version: Word::VERSION,
+  description: "== Bbl\n" + Working.third_line_of_readme,
+  version: Bbl::VERSION,
   authors: %w(☈king),
-  email: 'word@sharpsaw.org',
-  github: 'rking/word',
+  email: 'bbl@sharpsaw.org',
+  github: 'rking/bbl',
   deps: %w(),
 )

@@ -1,3 +1,9 @@
-= word
+= bbl
 
-Access the [digitally] written word via CLI. +word --help+
+Access the [digitally] written word via CLI. +bbl --help+
+
+== Name
+
+"Bbl" can be pronounced, "bible", or it can refer to chatspeak, "Be Back Later".
+
+See: Rev 22.
