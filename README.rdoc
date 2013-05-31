@@ -1,0 +1,3 @@
+= word
+
+Access the [digitally] written word via CLI. +word --help+
