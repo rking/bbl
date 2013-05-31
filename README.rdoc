@@ -7,3 +7,72 @@ Access the [digitally] written word via CLI. +bbl --help+
 "Bbl" can be pronounced, "bible", or it can refer to chatspeak, "Be Back Later".
 
 See: Rev 22.
+
+== Books
+
+[Gen] The First Book of Moses:  Called Genesis
+[Ex] The Second Book of Moses:  Called Exodus
+[Lev] The Third Book of Moses:  Called Leviticus
+[Num] The Fourth Book of Moses:  Called Numbers
+[Dt] The Fifth Book of Moses:  Called Deuteronomy
+[Josh] The Book of Joshua
+[Jud] The Book of Judges
+[Ruth] The Book of Ruth
+[1Sam] First Book of Samuel
+[2Sam] The Second Book of Samuel
+[1Ki] The First Book of the Kings
+[2Ki] The Second Book of the Kings
+[1Chr] The First Book of the Chronicles
+[2Chr] The Second Book of the Chronicles
+[Ezra] Ezra
+[Neh] The Book of Nehemiah
+[Est] The Book of Esther
+[Job] The Book of Job
+[Ps] The Book of Psalms
+[Prov] The Proverbs
+[Eccl] Ecclesiastes
+[Song] The Song of Solomon
+[Isa] The Book of the Prophet Isaiah
+[Jer] The Book of the Prophet Jeremiah
+[Lam] The Lamentations of Jeremiah
+[Ezek] The Book of the Prophet Ezekiel
+[Dan] The Book of Daniel
+[Hos] Hosea
+[Joel] Joel
+[Amos] Amos
+[Obad] Obadiah
+[Jon] Jonah
+[Mic] Micah
+[Nah] Nahum
+[Hab] Habakkuk
+[Zeph] Zephaniah
+[Hag] Haggai
+[Zech] Zechariah
+[Mal] Malachi
+[Mt] The Gospel According to Saint Matthew
+[Mk] The Gospel According to Saint Mark
+[Lk] The Gospel According to Saint Luke
+[Jn] The Gospel According to Saint John
+[Acts] The Acts of the Apostles
+[Rom] The Letter of Paul the Apostle to the Romans
+[1Cor] The First Letter of Paul the Apostle to the Corinthians
+[2Cor] The Second Letter of Paul the Apostle to the Corinthians
+[Gal] The Letter of Paul the Apostle to the Galatians
+[Eph] The Letter of Paul the Apostle to the Ephesians
+[Phil] The Letter of Paul the Apostle to the Philippians
+[Col] The Letter of Paul the Apostle to the Colossians
+[1Th] The First Letter of Paul the Apostle to the Thessalonians
+[2Th] The Second Letter of Paul the Apostle to the Thessalonians
+[1Tim] The First Letter of Paul the Apostle to Timothy
+[2Tim] The Second Letter of Paul the Apostle to Timothy
+[Ti] The Letter of Paul the Apostle to Titus
+[Phile] The Letter of Paul the Apostle to Philemon
+[Heb] The Letter of Paul the Apostle to the Hebrews
+[Jas] The General Letter of James
+[1Pet] The First Letter General of Peter
+[2Pet] The Second General Letter of Peter
+[1Jn] The First Letter General of John
+[2Jn] The Second Letter General of John
+[3Jn] The Third Letter General of John
+[Jude] The General Letter of Jude
+[Rev] The Revelation of Saint John the Devine
